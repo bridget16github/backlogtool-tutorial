@@ -1,1 +1,3 @@
 Git commands a monkey can understand
+
+add: register a change in an index.
